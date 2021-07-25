@@ -1,1 +1,1 @@
-This is an app for cafeterias
+This is no longer an application for cafeterias.
